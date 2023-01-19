@@ -1,0 +1,12 @@
+C:\Users\Elitenoob\source\repos\MonopolyData\obj\Debug\net6.0\MonopolyData.csproj.AssemblyReference.cache
+C:\Users\Elitenoob\source\repos\MonopolyData\obj\Debug\net6.0\MonopolyData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elitenoob\source\repos\MonopolyData\obj\Debug\net6.0\MonopolyData.AssemblyInfoInputs.cache
+C:\Users\Elitenoob\source\repos\MonopolyData\obj\Debug\net6.0\MonopolyData.AssemblyInfo.cs
+C:\Users\Elitenoob\source\repos\MonopolyData\obj\Debug\net6.0\MonopolyData.csproj.CoreCompileInputs.cache
+C:\Users\Elitenoob\source\repos\MonopolyData\bin\Debug\net6.0\MonopolyData.deps.json
+C:\Users\Elitenoob\source\repos\MonopolyData\bin\Debug\net6.0\MonopolyData.dll
+C:\Users\Elitenoob\source\repos\MonopolyData\bin\Debug\net6.0\MonopolyData.pdb
+C:\Users\Elitenoob\source\repos\MonopolyData\obj\Debug\net6.0\MonopolyData.dll
+C:\Users\Elitenoob\source\repos\MonopolyData\obj\Debug\net6.0\refint\MonopolyData.dll
+C:\Users\Elitenoob\source\repos\MonopolyData\obj\Debug\net6.0\MonopolyData.pdb
+C:\Users\Elitenoob\source\repos\MonopolyData\obj\Debug\net6.0\ref\MonopolyData.dll
