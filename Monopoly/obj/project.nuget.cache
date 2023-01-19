@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fWbAyRUMWMK3VXI4EYyQP3L9aNfYiH0CSYTr18LpphIjKu3G9f6O31cGgu/c5kCqAQn6Muu0EchHh/R//zGMfg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Elitenoob\\source\\repos\\Monopoly\\Monopoly.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Elitenoob\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\Elitenoob\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
